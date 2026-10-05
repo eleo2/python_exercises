@@ -1,0 +1,27 @@
+{
+    "lundi": [
+        "curry",
+        "riz",
+        10
+    ],
+    "mardi": [
+        "pâtes",
+        "légumes",
+        9
+    ],
+    "mercredi": [
+        "pommes de terre",
+        "haricots verts",
+        10
+    ],
+    "jeudi": [
+        "soupe",
+        "pain fromage",
+        8
+    ],
+    "vendredi": [
+        "pizza",
+        "salade",
+        9
+    ]
+}
